@@ -1,0 +1,4 @@
+dataset,clinical_units,patient_identity,procedure_video_identity,source_position,exact_content_audit,evidence_basis
+Internal development case,17,Yes,Yes,Partial,Yes,Local manifest checked directly
+CholecSeg8k,17,No patient ID in public dataset description,Yes (video),Frame/clip naming,Possible after local hashing,Dataset documentation and local file list
+Endoscapes2023,201,Not required for procedure-disjoint audit,Yes (procedure/video),Regular 1-fps sampling in CVS segment,Possible after local hashing,Dataset documentation and earlier local audit

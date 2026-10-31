@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this archive, please cite this software release."
+title: "Auditable Evidence Boundaries in Surgical Model Validation: Code, Protocol and Data"
+version: 2.0.0
+date-released: 2026-10-31
+license: MIT
+repository-code: "https://github.com/Allstar-med/auditable-evidence-boundaries-v2"
+authors:
+  - family-names: Zhu
+    given-names: Hui
+  - family-names: Zhu
+    given-names: Congbin
+  - family-names: Zhu
+    given-names: Huiying

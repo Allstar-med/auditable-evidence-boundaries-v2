@@ -1,0 +1,14 @@
+{
+  "audit_version": "1.0",
+  "identity_unit": "clinical_unit_id",
+  "exact_content_digest": "SHA-256",
+  "split_values": {
+    "development": "train",
+    "evaluation": [
+      "validation",
+      "val",
+      "test"
+    ]
+  },
+  "composite_integrity_score": false
+}

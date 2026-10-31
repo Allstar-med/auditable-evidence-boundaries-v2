@@ -1,0 +1,75 @@
+{
+  "source": "transcribed from project records of the case 2 reconstruction",
+  "source_reference_images": 343,
+  "source_reference_boxes": 2272,
+  "classes": 15,
+  "split_train_val_test": [
+    195,
+    53,
+    52
+  ],
+  "boundary_images_excluded": 43,
+  "epochs_trained": 48,
+  "selected_epoch": 28,
+  "evaluation_images": 529,
+  "outputs": 155157,
+  "matching_summary_cells_reproduced": 90,
+  "conditional_source_test_ap50_15class": 0.0257,
+  "source_ap50_2class": 0.000108831,
+  "source_ap50_2class_grasper": 0.000186961,
+  "source_ap50_2class_ultrasonic_scalpel": 3.0701e-05,
+  "archived_report_map50_not_reproduced": 0.316,
+  "external_records": 781,
+  "external_unique_png": 476,
+  "external_image_in_annotation_file": 1,
+  "external_unique_images": 477,
+  "external_repeated_records": 305,
+  "duplicate_groups": 254,
+  "duplicate_groups_spanning_prefixes": 118,
+  "records_in_spanning_groups": 287,
+  "external_annotated_images": 155,
+  "shapes": 527,
+  "polygons": 357,
+  "line_strips": 115,
+  "lines": 55,
+  "polygons_mapped_to_detector_classes": 247,
+  "mapped_classes": 10,
+  "archived_output_rates_percent": {
+    "Grasping forceps": [
+      90.2,
+      81.9,
+      14.0,
+      1.4
+    ],
+    "Ultrasonic scalpel": [
+      92.7,
+      1.1,
+      33.8,
+      0.0
+    ],
+    "Colon": [
+      80.0,
+      27.5,
+      42.7,
+      2.5
+    ],
+    "PPL feature": [
+      80.0,
+      4.2,
+      78.7,
+      0.6
+    ],
+    "P9 landmark": [
+      54.9,
+      0.8,
+      48.9,
+      0.3
+    ]
+  },
+  "archived_output_rates_columns": [
+    "Zhuhai >=0.05",
+    "Macau >=0.05",
+    "Zhuhai >=0.25",
+    "Macau >=0.25"
+  ]
+}

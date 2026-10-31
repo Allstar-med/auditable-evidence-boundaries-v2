@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+/example_audit.json
+/example_audit_check.json
+/results/
+/figures/
+/data/public/endoscapes_files.csv
+/data/public/endoscapes_adjacent.csv
+/data/public/cross.npy

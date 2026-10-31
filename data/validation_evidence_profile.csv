@@ -1,0 +1,6 @@
+dimension,definition,interpretation
+identity,clinical-unit identity and split separation,required to check patient or procedure overlap
+estimability,planned classes present in validation,absent classes cannot be evaluated
+content,exact SHA-256 duplication,same hash means same file content
+temporal_source,frame or clip position retained,needed when timing or source matters
+traceability,manifest and settings used for the audit,records which split was checked

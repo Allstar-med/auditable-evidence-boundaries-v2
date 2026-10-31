@@ -1,0 +1,16 @@
+{
+  "records": 2,
+  "unique_sha256": 2,
+  "duplicate_records": 0,
+  "duplicate_hash_groups": 0,
+  "cross_split_hash_groups": 0,
+  "cross_prefix_hash_groups": null,
+  "clinical_unit_overlap_count": 0,
+  "clinical_unit_overlap": [],
+  "endpoint_support": {
+    "label_primary": [
+      "class_b"
+    ]
+  },
+  "manifest_file_sha256": "765af83b986beff73cf7698faed5ee7598956621747db5a2c4c560d6401d6304"
+}
